@@ -1,0 +1,62 @@
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hello people!</title>
+<link rel="stylesheet" type="text/css" href="/home/cyberciruja/Git_Prueba/TAREA/styles/styles.css">
+
+
+</head>
+<body>
+<header>
+    <div>
+        <img height="35px" src=" https://i.pinimg.com/originals/0a/ad/16/0aad168a257a9bfddef238a036ae4d73.jpg" alt="logo">
+        <span>Hello people!</span>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+</header>
+
+<h1>Poniendo en practica lo aprendido</h1>
+
+<section>
+<div class="mi bio">
+    <h2>Un poco de mí</h2>
+
+    <p>¡Hola! Soy Victoria y tengo 28 años. Presentarme siempre es un poco incómodo por lo que prefiero hacer una lista de cincos datos aleatorios que me parecen relevantes de mi persona. 
+    </p>
+</div>
+
+<div class="mi bio">
+   <ul>
+    <li>Soy la orgullosa dueña de dos bellos gatos</li>
+    <li>Me gustan las novelas de fantasía</li>
+    <li>Me gusta mucho escuchar música y casi siempre tengo algo de fondo cuando estudio</li>
+    <li>Tengo muy poco sentido de orientación</li>
+    <li>Me gusta mucho jugar Dungeons & Dragons</li>
+   </ul>
+</div>
+</section>
+
+<aside>
+<div class="importante">      
+    <img height="200px" src="/home/cyberciruja/Git_Prueba/TAREA/gato.jpeg" alt="gato"> <span> Uromarsh, con entre cinco y seis años</span>
+    <img height="200px" src="/home/cyberciruja/Git_Prueba/TAREA/gata.jpeg" alt="gatos"> <span>Ciry, con alrededor de 4 años</span>
+    
+</div>
+</aside>
+
+<footer>
+    <img height="80px" src="https://i.pinimg.com/736x/99/18/31/991831250acfdfdac4d6953f8cc28f81.jpg" alt="logo">
+    <div>
+    <div class="misredes"
+        </a> <img height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin"></a><span> <a target="_blank" href="https://www.linkedin.com/in/victoria-lafiosca-587a5a1a3"> Les dejo mi linkedin por si quieren agregarme <span>
+        
+    </div>
+</footer>
+</body>
+</html>
