@@ -44,8 +44,8 @@
 
 <aside>
 <div class="importante">      
-    <img height="200px" src="/home/cyberciruja/Git_Prueba/TAREA/gato.jpeg" alt="gato"> <span> Uromarsh, con entre cinco y seis años</span>
-    <img height="200px" src="/home/cyberciruja/Git_Prueba/TAREA/gata.jpeg" alt="gatos"> <span>Ciry, con alrededor de 4 años</span>
+    <img height="200px" src="./img/gato.jpeg" alt="gato"> <span> Uromarsh, con entre cinco y seis años</span>
+    <img height="200px" src="./img/gata.jpeg alt="gatos"> <span>Ciry, con alrededor de 4 años</span>
     
 </div>
 </aside>
